@@ -79,7 +79,7 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="d3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Boneless Value - 30 CEDIS</strong></h5>
+			<h5><strong>Boneless Value - 33.00 CEDIS</strong></h5>
 			<p>2 Tenders, Small Pouch Chips 1x Dip</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
@@ -93,13 +93,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="d2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>KFC Big Deal - 129.00 CEDIS</strong></h5>
+			<h5><strong>KFC Big Deal - 241.00 CEDIS</strong></h5>
 			<p>4 Pieces of Chicken, 4 Crispy Strips, Large Chips and 2x 300ML Drink</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="d4.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Colonel Rice Bowl - 25 CEDIS</strong></h5>
+			<h5><strong>Colonel Rice Bowl - 28.00 CEDIS</strong></h5>
 			<p>Inner Fillet with Rice</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
@@ -107,13 +107,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="d5.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Chicken Pops Meal - 45 CEDIS</strong></h5>
+			<h5><strong>Chicken Pops Meal - 50.00 CEDIS</strong></h5>
 			<p>Chicken Pops with Regular Chips and 300ML Drink</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="d6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>KFC Wingman - 64 CEDIS</strong></h5>
+			<h5><strong>KFC Wingman - 70.00 CEDIS</strong></h5>
 			<p>6pcs Zinger Wings and Large Chips</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>

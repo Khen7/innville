@@ -79,41 +79,41 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col2">
 			<img src="j19.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Colonel Rice - 25 CEDIS</strong></h5>
+			<h5><strong>Colonel Rice - 28.00 CEDIS</strong></h5>
 			<p>350 Gram</p>
-			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
+			<a href="https://forms.gle/d5C6YYtV7QvZV7an7" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 2 with Chips - 45 CEDIS</strong></h5>
+			<h5><strong>Streetwise 2 with Chips - 50.00 CEDIS</strong></h5>
 			<p>2 pieces of Chicken OR or Hot & crispy and a regular chips</p>
-			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
+			<a href="https://forms.gle/d5C6YYtV7QvZV7an7" target="_blank" class="btn">Order Now!</a>
 		</div>
 		</div>
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="j3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 2 with Rice - 50 CEDIS</strong></h5>
+			<h5><strong>Streetwise 2 with Rice - 55.00 CEDIS</strong></h5>
 			<p>2 Pieces of Chicken OR or Hot & Crispy and Colonel Rice</p>
-			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
+			<a href="https://forms.gle/d5C6YYtV7QvZV7an7" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j4.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 3 with Chips - 60 CEDIS</strong></h5>
+			<h5><strong>Streetwise 3 with Chips - 66.00 CEDIS</strong></h5>
 			<p>3 pieces of Chicken OR or Hot & crispy and a regular chips</p>
-			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
+			<a href="https://forms.gle/d5C6YYtV7QvZV7an7" target="_blank" class="btn">Order Now!</a>
 		</div>
 		</div>
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="j5.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 3 with Rice - 65 CEDIS</strong></h5>
+			<h5><strong>Streetwise 3 with Rice - 72.00 CEDIS</strong></h5>
 			<p>3 Pieces of Chicken OR or Hot & Crispy and Colonel Rice</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong> Streetwise 5 - 85 CEDIS</strong></h5>
+			<h5><strong> Streetwise 5 - 94.00 CEDIS</strong></h5>
 			<p>5 Pieces of Chicken and Large Chips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -121,13 +121,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="j7.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>6 Lime Chilli Wings - 60 CEDIS</strong></h5>
+			<h5><strong>6 Lime Chilli Wings - 66.00 CEDIS</strong></h5>
 			<p>6 Lime Chilli Wings</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j8.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>12 Lime Chilli Wings - 90 CEDIS</strong></h5>
+			<h5><strong>12 Lime Chilli Wings - 99.00 CEDIS</strong></h5>
 			<p>12 Lime Chilli Wings</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -135,13 +135,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j9.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Chicken Pops - Regular - 30 CEDIS</strong></h5>
+			<h5><strong>Chicken Pops - Regular - 33.00 CEDIS</strong></h5>
 			<p>Chicken Pops - Regular</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j10.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Chicken Pops - Large - 40 CEDIS</strong></h5>
+			<h5><strong>Chicken Pops - Large - 44.00 CEDIS</strong></h5>
 			<p>Chicken Pops - Large</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -149,13 +149,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j11.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>6 Crispy Strips - 45 CEDIS</strong></h5>
+			<h5><strong>6 Crispy Strips - 50.00 CEDIS</strong></h5>
 			<p>6 Crispy Strips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j12.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>3 Crispy Strips - 25 CEDIS</strong></h5>
+			<h5><strong>3 Crispy Strips - 28.00 CEDIS</strong></h5>
 			<p>3 Crispy Strips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -163,13 +163,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j13.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>1 piece Chicken - 20 CEDIS</strong></h5>
+			<h5><strong>1 piece Chicken - 22.00 CEDIS</strong></h5>
 			<p>1 piece Original Recipe or Hot & Crispy</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j14.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Hash Brown - 7 CEDIS</strong></h5>
+			<h5><strong>Hash Brown - 8.00 CEDIS</strong></h5>
 			<p>Hash Brown</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -177,13 +177,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j15.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Slice Cheese - 10 CEDIS</strong></h5>
+			<h5><strong>Slice Cheese - 11.00 CEDIS</strong></h5>
 			<p>Slice Cheese</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j16.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>2 piece Chicken- 38 CEDIS</strong></h5>
+			<h5><strong>2 piece Chicken- 42.00 CEDIS</strong></h5>
 			<p>2 piece Original Recipe or Hot & Crispy</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -191,13 +191,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j17.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Large Chips - 20 CEDIS</strong></h5>
+			<h5><strong>Large Chips - 22.00 CEDIS</strong></h5>
 			<p>Large Chips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j18.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Regular Chips - 15 CEDIS</strong></h5>
+			<h5><strong>Regular Chips - 17.00 CEDIS</strong></h5>
 			<p>Regular Chips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -205,13 +205,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col1">
 			<img src="j1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 1 with Chips - 33 CEDIS</strong></h5>
+			<h5><strong>Streetwise 1 with Chips - 33.00 CEDIS</strong></h5>
 			<p>1 piece of Chicken OR or Hot & crispy and a regular chips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j20.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Coleslaw - 7 CEDIS</strong></h5>
+			<h5><strong>Coleslaw - 8.00 CEDIS</strong></h5>
 			<p>Coleslaw</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -219,13 +219,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j21.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>6 Zinger Nuggets - 35 CEDIS</strong></h5>
+			<h5><strong>6 Zinger Nuggets - 39.00 CEDIS</strong></h5>
 			<p>6 Nuggets and 1x Dip</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j22.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>12 Zinger Nuggets - 65 CEDIS</strong></h5>
+			<h5><strong>12 Zinger Nuggets - 72.00 CEDIS</strong></h5>
 			<p>12 Nuggets and 2x Dips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -233,13 +233,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j23.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>24 Zinger Nuggets - 110 CEDIS</strong></h5>
+			<h5><strong>24 Zinger Nuggets - 121.00 CEDIS</strong></h5>
 			<p>24 Nuggets and 4x Dips</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j24.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Box Master Meal - 72/49 CEDIS</strong></h5>
+			<h5><strong>Box Master Meal - 79.00 CEDIS</strong></h5>
 			<p>Zinger/Colonel Boxmaster, Regular Chips and 300ML Drink</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -247,13 +247,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j25.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Twister Meal - 60/39 CEDIS</strong></h5>
+			<h5><strong>Twister Meal - 66.00 CEDIS</strong></h5>
 			<p>Zinger/Colonel Twister, Regular Chips and 300ML Drink</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="j26.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Box Master - 49 CEDIS</strong></h5>
+			<h5><strong>Box Master - 54.00 CEDIS</strong></h5>
 			<p>Colonel/Zinger Sauces</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -261,7 +261,7 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j27.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Twister - 39/60 CEDIS</strong></h5>
+			<h5><strong>Twister - 43.00 CEDIS</strong></h5>
 			<p>Colonel/Zinger Sauces</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>

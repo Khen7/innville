@@ -106,7 +106,7 @@
 <!--preOrder-->
 <div class="preorder" id="preorders">
 <h2><strong>Preorder Countdown</strong></h2>
-    <p>Make a preorder before the count down ends and get a 10% discount. <span><i>NOTE: This order will arrive at the end of this countdown.</i></span></p>
+    <p>Make a preorder now before the official launching of Midor and get a 10% discount. <span><i>NOTE: This order will arrive a day after the end of this countdown.</i></span></p>
     <div id="countdown"></div>
 </div>
 
@@ -115,13 +115,13 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="d3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Boneless Value Meal - 33 CEDIS</strong></h5>
+			<h5><strong>Boneless Value Meal - 33.00 CEDIS</strong></h5>
 			<p>2 Tenders, Small Pouch Chips 1x Dip</p>
 			<a href="deal.php" class="btn">Check Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Tower Burger - 47 CEDIS</strong></h5>
+			<h5><strong>Tower Burger - 52.00 CEDIS</strong></h5>
 			<p>Zinger or Colonel Tower Burger</p>
 			<a href="burger.php" class="btn">Check Menu</a>
 		</div>
@@ -129,13 +129,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="d2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>KFC Big Deal - 129.00 CEDIS</strong></h5>
+			<h5><strong>KFC Big Deal - 142.00 CEDIS</strong></h5>
 			<p>4 Pieces of Chicken, 4 Crispy Strips, Large Chips and 2x 300ML Drink</p>
 			<a href="deal.php" class="btn">Check Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="box1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Fully Loaded Meal - 85 CEDIS</strong></h5>
+			<h5><strong>Fully Loaded Meal - 94.00 CEDIS</strong></h5>
 			<p>1 Zinger/Colonel Burger, 1 Piece of Chicken, Regular Chips, Coleslaw and 300ML Drink</p>
 			<a href="box.php" class="btn">Check Menu</a>
 		</div>
@@ -143,13 +143,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j19.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Colonel Rice - 25 CEDIS</strong></h5>
+			<h5><strong>Colonel Rice - 28.00 CEDIS</strong></h5>
 			<p>350 Gram</p>
 			<a href="just4me.php" class="btn">Check Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="s7.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>18 piece Bucket - 280 CEDIS</strong></h5>
+			<h5><strong>18 piece Bucket - 308.00 CEDIS</strong></h5>
 			<p>18 pieces of Original Chicken or Hot & Crispy</p>
 			<a href="share.php" class="btn">Check Menu</a>
 		</div>
@@ -157,13 +157,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
 			<img src="j27.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Twister - 39 CEDIS</strong></h5>
+			<h5><strong>Twister - 43.00 CEDIS</strong></h5>
 			<p>Colonel/Zinger Sauces</p>
 			<a href="just4me.php" class="btn">Check Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Veg Burger - 25 CEDIS</strong></h5>
+			<h5><strong>Veg Burger - 28.00 CEDIS</strong></h5>
 			<p>Vegetable Burger</p>
 			<a href="burger.php" class="btn">Check Menu</a>
 		</div>
@@ -210,7 +210,7 @@
 
 	 <!-- Footer -->
 	 <footer>
-    <p>&copy; 2023 preOrder.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a href="https://wa.me/0203786321?text=Welcome to our support service. Please tell us hou we can help you.">Customer Service</a></p>
+    <p>&copy; 2023 preOrder.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a href="#" id="whatsapp-button">Customer Service</a></p>
   </footer>
 
 	<!-- Optional JavaScript; choose one of the two! -->

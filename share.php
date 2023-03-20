@@ -79,13 +79,13 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="s7.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>18 piece Bucket - 280 CEDIS</strong></h5>
+			<h5><strong>18 piece Bucket - 308.00 CEDIS</strong></h5>
 			<p>18 pieces of Original Chicken or Hot & Crispy</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Family Treat - 215 CEDIS</strong></h5>
+			<h5><strong>Family Treat - 237.00 CEDIS</strong></h5>
 			<p>6 Pieces of Chicken, 4pcs Lime Chilli Wings/ 4 Pcs Crispy Strips, 2x Regular Chips, 2x Colonel Rice, 2x Coleslaw and 3x 300ML Drinks</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
@@ -93,13 +93,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="s3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Streetwise 5 - 85 CEDIS</strong></h5>
+			<h5><strong>Streetwise 5 - 94.00 CEDIS</strong></h5>
 			<p>5 Pieces of Chicken and Large Chips</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s4.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>9 piece Bucket - 165 CEDIS</strong></h5>
+			<h5><strong>9 piece Bucket - 182.00 CEDIS</strong></h5>
 			<p>9 pieces of Original Chicken or Hot & Crispy</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
@@ -107,13 +107,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="s5.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>12 piece Bucket - 210 CEDIS</strong></h5>
+			<h5><strong>12 piece Bucket - 231.00 CEDIS</strong></h5>
 			<p>12 pieces of Original Chicken or Hot & Crispy</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>15 piece Bucket - 250 CEDIS</strong></h5>
+			<h5><strong>15 piece Bucket - 275.00 CEDIS</strong></h5>
 			<p>15 pieces of Original Chicken or Hot & Crispy</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
@@ -121,13 +121,13 @@
 		<div class="cards">
 		<div class="col-md-5" id="service-col1">
 			<img src="s1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>All In One Deal - 195 CEDIS</strong></h5>
+			<h5><strong>All In One Deal - 215.00 CEDIS</strong></h5>
 			<p>10 Pieces of Chicken, 2 Large Chips and Coleslaw</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s8.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Boneless Chicken Bucket - 110 CEDIS</strong></h5>
+			<h5><strong>Boneless Chicken Bucket - 121.00 CEDIS</strong></h5>
 			<p>15 Tenders and 4x Dips</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>

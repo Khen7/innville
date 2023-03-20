@@ -26,3 +26,9 @@ var x = setInterval(function() {
     document.getElementById("countdown").innerHTML = "Preorder now!";
   }
 }, 1000);
+
+// whatsapp chat API
+function openWhatsappChat() {
+  window.open("https://wa.me/233203786321");
+}
+document.getElementById("whatsapp-button").addEventListener("click", openWhatsappChat);

@@ -79,13 +79,13 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="box1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Fully Loaded Meal - 85 CEDIS</strong></h5>
+			<h5><strong>Fully Loaded Meal - 94.00 CEDIS</strong></h5>
 			<p>1 Zinger/Colonel Burger, 1 Piece of Chicken, Regular Chips, Coleslaw and 300ML Drink</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="box2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Wicked Zinger Meal - 98 CEDIS</strong></h5>
+			<h5><strong>Wicked Zinger Meal - 108.00 CEDIS</strong></h5>
 			<p>1 Zinger Burger, 4pcs Lime Chilli Wings, Regular Chips, Coleslaw and 300ML Drink</p>
 			<a href="#" class="btn">Order Now!</a>
 		</div>

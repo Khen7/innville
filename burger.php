@@ -79,13 +79,13 @@
 	<div class="cards">
 	<div class="col-md-5" id="service-col2">
 			<img src="b2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Tower Burger - 47 CEDIS</strong></h5>
+			<h5><strong>Tower Burger - 52.00 CEDIS</strong></h5>
 			<p>Zinger or Colonel Tower Burger</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 	<div class="col-md-5" id="service-col1">
 			<img src="b1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Crunch Burger - 25 CEDIS</strong></h5>
+			<h5><strong>Crunch Burger - 28.00 CEDIS</strong></h5>
 			<p>Zinger or Colonel Crunch Burger</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -93,13 +93,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="b3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Burger Meal - 60 CEDIS</strong></h5>
-			<p>Zinger/Colonel Burger, Regular Chips and 300ML Drinkf</p>
+			<h5><strong>Burger Meal - 66.00 CEDIS</strong></h5>
+			<p>Zinger/Colonel Burger, Regular Chips and 300ML Drink</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b4.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Zinger Burger - 39 CEDIS</strong></h5>
+			<h5><strong>Zinger Burger - 43.00 CEDIS</strong></h5>
 			<p>A spicy Zinger fillet topped with fresh lettuce, a slice of tomato & Colonel dressing on a burger bun</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
@@ -107,13 +107,13 @@
 		<div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="b5.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Colonel Burger - 39 CEDIS</strong></h5>
+			<h5><strong>Colonel Burger - 43.00 CEDIS</strong></h5>
 			<p>An Original Recipe fillet topped with fresh lettuce, a slice of tomato & Colonel dressing on a burger bun</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Veg Burger - 25 CEDIS</strong></h5>
+			<h5><strong>Veg Burger - 28.00 CEDIS</strong></h5>
 			<p>Vegetable Burger</p>
 			<a href="https://forms.gle/biZ1bk6VTG9Q8WX5A" target="_blank" class="btn">Order Now!</a>
 		</div>
