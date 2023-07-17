@@ -52,11 +52,12 @@
             Menu
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item" href="just4me.php">Just for me</a></li>
-            <li><a class="dropdown-item" href="share.php">For sharing</a></li>
-            <li><a class="dropdown-item" href="deal.php">Deals</a></li>
-			<li><a class="dropdown-item" href="box.php">Box meal</a></li>
-			<li><a class="dropdown-item" href="burger.php">Burgers</a></li>
+            <li><a class="dropdown-item" href="value.php">VALUE DEALS</a></li>
+            <li><a class="dropdown-item" href="streetwise.php">STREETWISE</a></li>
+            <li><a class="dropdown-item" href="meals.php">MEALS</a></li>
+			<li><a class="dropdown-item" href="buckets.php">BUCKETS</a></li>
+			<li><a class="dropdown-item" href="burger.php">BURGERS</a></li>
+			<li><a class="dropdown-item" href="Others.php">OTHERS</a></li>
           </ul>
         </li>
 			<li class="nav-item">
@@ -76,7 +77,7 @@
 	<!-- banner -->
 	<div class="banner" id="home">
 		<div class="text">
-		<h3>Get KFC fast foods in Winneba within 24 hours at very affordable prices.</h3>
+		<h3>Get KFC fast foods in Winneba within 12 hours at very affordable prices.</h3>
 		<a href="just4me.php" class="btn">Check Menu</a>
 		</div>
 <div class="back">
@@ -105,8 +106,8 @@
 	
 <!--preOrder-->
 <div class="preorder" id="preorders">
-<h2><strong>Preorder Countdown</strong></h2>
-    <p>Make a preorder now before the official launching of Midor and get a 10% discount. <span><i>NOTE: This order will arrive a day after the end of this countdown.</i></span></p>
+<h2><strong>Preorder Promotion</strong></h2>
+    <p>Make a preorder now before the official launching of NEXXIT and get a GHC5.00 discount. <span><i>NOTE: This order will arrive a day after the end of this countdown.</i></span></p>
     <div id="countdown"></div>
 </div>
 
@@ -114,58 +115,62 @@
 	<div class="men" id="mens">
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
-			<img src="d3.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Boneless Value Meal - 33.00 CEDIS</strong></h5>
-			<p>2 Tenders, Small Pouch Chips 1x Dip</p>
-			<a href="deal.php" class="btn">Check Menu</a>
+			<img src="v8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
+			<span>Inner Fillet with KFC Spicy Rice</span><br>
+			<h6><strong>GHC41.00</strong></h6><br>
+			<a href="box.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
-			<img src="b2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Tower Burger - 52.00 CEDIS</strong></h5>
-			<p>Zinger or Colonel Tower Burger</p>
-			<a href="burger.php" class="btn">Check Menu</a>
-		</div>
-		</div>
-		<div class="cards">
-		<div class="col-md-5" id="service-col2">
-			<img src="d2.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>KFC Big Deal - 142.00 CEDIS</strong></h5>
-			<p>4 Pieces of Chicken, 4 Crispy Strips, Large Chips and 2x 300ML Drink</p>
-			<a href="deal.php" class="btn">Check Menu</a>
+			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
+			<span>5 Pieces of Original Chicken and Large Chips.</span><br>
+			<h6><strong>GHC116.00</strong></h6><br>
+			<a href="burger.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
-			<img src="box1.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Fully Loaded Meal - 94.00 CEDIS</strong></h5>
-			<p>1 Zinger/Colonel Burger, 1 Piece of Chicken, Regular Chips, Coleslaw and 300ML Drink</p>
-			<a href="box.php" class="btn">Check Menu</a>
+			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>BURGER MEAL - ZINGER</strong></h6>
+			<span>1pc Buns, Zinger Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
+			<h6><strong>GHC90.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col2">
+			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
+			<span>10 Tenders, 2 Large Chips and 3x Dips</span><br>
+			<h6><strong>GHC171.00 CEDIS</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
-			<img src="j19.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Colonel Rice - 28.00 CEDIS</strong></h5>
-			<p>350 Gram</p>
-			<a href="just4me.php" class="btn">Check Menu</a>
+			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>ZINGER TOWER BURGER</strong></h6>
+			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
+			<h6><strong>GHC80.00</strong></h6><br>
+			<a href="burger.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
-			<img src="s7.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>18 piece Bucket - 308.00 CEDIS</strong></h5>
-			<p>18 pieces of Original Chicken or Hot & Crispy</p>
-			<a href="share.php" class="btn">Check Menu</a>
+			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>BOXMASTER ZINGER</strong></h6>
+			<span>1pc Tortilla, Zinger Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
+			<h6><strong>GHC60.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
 		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>24 ZINGER NUGGETS</strong></h6>
+			<span>24 Nuggets and 4x Dips</span><br>
+			<h6><strong>GHC121.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
 		</div>
-		<div class="cards">
-		<div class="col-md-5" id="service-col2">
-			<img src="j27.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Twister - 43.00 CEDIS</strong></h5>
-			<p>Colonel/Zinger Sauces</p>
-			<a href="just4me.php" class="btn">Check Menu</a>
-		</div>
-		<div class="col-md-5" id="service-col2">
-			<img src="b6.jpg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h5><strong>Veg Burger - 28.00 CEDIS</strong></h5>
-			<p>Vegetable Burger</p>
-			<a href="burger.php" class="btn">Check Menu</a>
+		<div class="col-md-5" id="service-col1">
+			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
+			<span>2 Piece of Original Chicken</span><br>
+			<h6><strong>GHC55.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
 		</div>
 		</div>
 	</div><hr>

@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="index.css" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
-	<title>Nexxit Burgers</title>
+	<title>Nexxit-Value Meals</title>
 </head>
 
 <body>
@@ -51,12 +51,12 @@
           <a class="nav-link dropdown-toggle nav-link" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Menu
           </a>
-          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item" href="value.php">VALUE DEALS</a></li>
+		  <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+            <li><a class="dropdown-item" href="#">VALUE DEALS</a></li>
             <li><a class="dropdown-item" href="streetwise.php">STREETWISE</a></li>
             <li><a class="dropdown-item" href="meals.php">MEALS</a></li>
 			<li><a class="dropdown-item" href="buckets.php">BUCKETS</a></li>
-			<li><a class="dropdown-item" href="#">BURGERS</a></li>
+			<li><a class="dropdown-item" href="burger.php">BURGERS</a></li>
 			<li><a class="dropdown-item" href="Others.php">OTHERS</a></li>
           </ul>
         </li>
@@ -76,60 +76,79 @@
 
 <!--Menu-->
 <div class="men" id="mens">
-<h2 class="text-center"><strong>Burgers</strong></h2><hr>
+<h2 class="text-center"><strong>Value Deals</strong></h2><hr>
 <div class="cards">
 	<div class="col-md-5" id="service-col1">
-			<img src="bg1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>VEG BURGER</strong></h6>
-			<span>Vegetarian Burger</span><br>
-			<h6><strong>GHC46.00</strong></h6><br>
+			<img src="v1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>STREETWISE BONELESS MEAL </strong></h6>
+			<span>3pcs Tenders and Chips</span><br>
+			<h6><strong> GHC49.00</strong></h6><br>
 			<a href="deal.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
-			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>ZINGER TOWER BURGER</strong></h6>
-			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
-			<h6><strong>GHC80.00</strong></h6><br>
+			<img src="v2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC WINGMAN</strong></h6>
+			<span>6pcs Zinger Wings and Large Chips</span><br>
+			<h6><strong> GHC91.00</strong></h6><br>
 			<a href="burger.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
-			<img src="bg3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>COLONEL TOWER BURGER</strong></h6>
-			<span>1pc Buns, Colonel Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
-			<h6><strong>GHC80.00</strong></h6><br>
+			<img src="v3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC BIG DEAL - HOT & CRISPY </strong></h6>
+			<span>4 Pieces of Hot & Crispy Chicken, 8x Nuggets, 2x Dips, Large Chips and 2x 300ML Drinks.</span><br>
+			<h6><strong> GHC186.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="v4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC BIG DEAL - ORIGINAL</strong></h6>
+			<span>4 Pieces of Hot & Crispy Chicken, 8x Nuggets, Large Chips, 2x Dips and 2x 300ML Drinks.</span><br>
+			<h6><strong> GHC186.00</strong></h6><br>
+			<a href="box.php" class="btn">Order Now</a>
+		</div>
+		</div>
+		<div class="cards">
+	<div class="col-md-5" id="service-col1">
+			<img src="v5.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>CHICKEN POPS MEAL </strong></h6>
+			<span>Chicken Pops, Large Chips & 300ML Drink.</span><br>
+			<h6><strong> GHC77.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col2">
+			<img src="v6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>ZINGER NUGGET MEAL - MINI KRUSHER</strong></h6>
+			<span>8 Nuggets, Chips and Mini Krusher</span><br>
+			<h6><strong> GHC86.00</strong></h6><br>
 			<a href="burger.php" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
-			<img src="bg4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>BURGER - ZINGER</strong></h6>
-			<span>1pc Bun, Zinger Dressing and 1pc Fillet</span><br>
-			<h6><strong>GHC66.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<img src="v7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>ZINGER NUGGET MEAL - DRINK </strong></h6>
+			<span>8 Nuggets, Chips and 300ML Drink</span><br>
+			<h6><strong>GHC86.00</strong></h6><br>
+			<a href="deal.php" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="v8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
+			<span>Inner Fillet with KFC Spicy Rice</span><br>
+			<h6><strong>GHC41.00</strong></h6><br>
+			<a href="box.php" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
 		<div class="col-md-5" id="service-col2">
-			<img src="bg5.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>BURGER - COLONEL</strong></h6>
-			<span>1pc Bun, Colonel Dressing and 1pc Fillet</span><br>
-			<h6><strong>GHC66.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
-		</div>
-		<div class="col-md-5" id="service-col2">
-			<img src="bg6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>CRUNCH BURGER - ZINGER</strong></h6>
-			<span>1pc Bun, Zinger Dressing, 1pc Mini Fillet</span><br>
-			<h6><strong>GHC46.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
-		</div>
-		<div class="col-md-5" id="service-col2">
-			<img src="bg7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>CRUNCH BURGER - COLONEL</strong></h6>
-			<span>1pc Bun, Colonel Dressing, 1pc Mini Fillet</span><br>
-			<h6><strong>GHC46.00</strong></h6><br>
+			<img src="v9.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KYEMP3</strong></h6>
+			<span>8 Tenders, Large Chips and 2x Dips</span><br>
+			<h6><strong>GHC126.00</strong></h6><br>
 			<a href="burger.php" class="btn">Order Now</a>
 		</div>
 		</div>
+		
+
+
 	</div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
