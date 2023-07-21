@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -83,28 +83,28 @@
 			<h6><strong>ZINGER NUGGETS BUCKET</strong></h6>
 			<span>20x Zinger Nuggets and 3x Dips</span><br>
 			<h6><strong>GHC136.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>MINI-BONELESS BUCKET</strong></h6>
 			<span>4x Tenders and 1x Dip</span><br>
 			<h6><strong>GHC71.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
 			<span>10 Tenders, 2 Large Chips and 3x Dips</span><br>
 			<h6><strong>GHC171.00 CEDIS</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="b4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>9 PIECE BUCKET - HOT & CRISPY</strong></h6>
 			<span>9 Pieces of Hot & Crispy Chicken</span><br>
 			<h6><strong>GHC201.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -113,28 +113,28 @@
 			<h6><strong>9 PIECE BUCKET - ORIGINAL</strong></h6>
 			<span>9 Pieces of Original Chicken</span><br>
 			<h6><strong>GHC201.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="b6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>12 PIECE BUCKET - HOT & CRISPY</strong></h6>
 			<span>12 Pieces of Hot & Crispy Chicken</span><br>
 			<h6><strong>GHC261.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="b7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>12 PIECE BUCKET - ORIGINAL</strong></h6>
 			<span>12 Pieces of Original Chicken</span><br>
 			<h6><strong>GHC261.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="b7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>15 PIECE BUCKET - HOT & CRISPY</strong></h6>
 			<span>15 Pieces of Hot & Crispy Chicken</span><br>
 			<h6><strong>GHC316.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -143,7 +143,7 @@
 			<h6><strong>15 PIECE BUCKET - ORIGINAL</strong></h6>
 			<span>15 Pieces of Original Chicken</span><br>
 			<h6><strong>GHC316.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/P173yH2cTVRWEJpB7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 	</div>

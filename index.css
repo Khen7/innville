@@ -174,7 +174,7 @@ h1 {
   
   #countdown {
 	color: 	white;
-	font-size: 50px;
+	font-size: 30px;
 	margin-top: 10px;
   }
 
@@ -266,7 +266,8 @@ h1 {
 	/* contactUs */
 .contact {
 	width: 80%;
-    height: 70vh;  
+    height: 70vh;
+	padding-top: 150px;  
     margin: auto;
 }
 
@@ -379,13 +380,14 @@ h1 {
   
   #countdown {
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 	margin-top: 0px;
   }
 
   .preorder p{
 	width: 90%;
 	margin: auto;
+	font-size: 12px;
   }
 
 /* Menu */
@@ -443,13 +445,14 @@ width: 100%;
 	 /* Footer styles */
 	 footer {
         height: 70px;
+		padding: 2px;
 	  }
 	
 	  footer p{
-		font-size: 12px;
+		font-size: 10px;
 	  }
 
 	  footer a {
-		font-size: 12px;
+		font-size: 10px;
 	  }
 	}

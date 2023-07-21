@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -83,28 +83,28 @@
 			<h6><strong>VEG BURGER</strong></h6>
 			<span>Vegetarian Burger</span><br>
 			<h6><strong>GHC46.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>ZINGER TOWER BURGER</strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="bg3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>COLONEL TOWER BURGER</strong></h6>
 			<span>1pc Buns, Colonel Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="bg4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BURGER - ZINGER</strong></h6>
 			<span>1pc Bun, Zinger Dressing and 1pc Fillet</span><br>
 			<h6><strong>GHC66.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -113,21 +113,28 @@
 			<h6><strong>BURGER - COLONEL</strong></h6>
 			<span>1pc Bun, Colonel Dressing and 1pc Fillet</span><br>
 			<h6><strong>GHC66.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="bg6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>CRUNCH BURGER - ZINGER</strong></h6>
 			<span>1pc Bun, Zinger Dressing, 1pc Mini Fillet</span><br>
 			<h6><strong>GHC46.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="bg7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>CRUNCH BURGER - COLONEL</strong></h6>
 			<span>1pc Bun, Colonel Dressing, 1pc Mini Fillet</span><br>
 			<h6><strong>GHC46.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="bg1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>VEG BURGER</strong></h6>
+			<span>Vegetarian Burger</span><br>
+			<h6><strong>GHC46.00</strong></h6><br>
+			<a href="https://forms.gle/TbPDf2fu5JG6nQtA9" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 	</div>

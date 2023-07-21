@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="index.css" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
-	<title>preOrder</title>
+	<title>NEXXIT</title>
 </head>
 
 <body>
@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#contactus">Contact Us</a>
+				href="#contactus"><strong>Order on Call</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -77,8 +77,8 @@
 	<!-- banner -->
 	<div class="banner" id="home">
 		<div class="text">
-		<h3>Get KFC fast foods in Winneba within 12 hours at very affordable prices.</h3>
-		<a href="just4me.php" class="btn">Check Menu</a>
+		<h3>Get KFC fast foods in Winneba within 12 hours.</h3>
+		<a href="#" id="whatsapp-button" class="btn">Order on Whatsapp</a>
 		</div>
 <div class="back">
 	<img src="back8.jpeg" alt="error">
@@ -91,15 +91,15 @@
 	<div class="cards">
 	<div class="col-md-4" id="service-col1">
 			<img src="order.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>1. MAKE ORDER</p>
+			<p>CHOOSE ITEM</p>
 		</div>
 		<div class="col-md-4" id="service-col2">
 			<img src="pay.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>2. MAKE PAYMENT</p>
+			<p>FILL ORDER FORM & MAKE PAYMENT</p>
 		</div>
 		<div class="col-md-4" id="service-col3">
 			<img src="pick.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>3. PICK UP ORDER</p>
+			<p>PICK UP ORDER</p>
 		</div>
 		</div><hr>
 	</div>
@@ -119,28 +119,28 @@
 			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
 			<span>Inner Fillet with KFC Spicy Rice</span><br>
 			<h6><strong>GHC41.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="value.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
 			<span>5 Pieces of Original Chicken and Large Chips.</span><br>
 			<h6><strong>GHC116.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="streetwise.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BURGER MEAL - ZINGER</strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC90.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="meals.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
 			<span>10 Tenders, 2 Large Chips and 3x Dips</span><br>
 			<h6><strong>GHC171.00 CEDIS</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="buckets.php" class="btn">See Menu</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -149,28 +149,28 @@
 			<h6><strong>ZINGER TOWER BURGER</strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="burger.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER ZINGER</strong></h6>
 			<span>1pc Tortilla, Zinger Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
 			<h6><strong>GHC60.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="others.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>24 ZINGER NUGGETS</strong></h6>
 			<span>24 Nuggets and 4x Dips</span><br>
 			<h6><strong>GHC121.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="others.php" class="btn">See Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
 			<span>2 Piece of Original Chicken</span><br>
 			<h6><strong>GHC55.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="others.php" class="btn">See Menu</a>
 		</div>
 		</div>
 	</div><hr>
@@ -192,16 +192,12 @@
 	</div><hr>
 
 	<!-- contactus-->
-	<h2 class="text-center">CONTACT US</h2>
 	<div class="contact" id="contactus">
+	<h2 class="text-center">ORDERS & ENQUIRIES</h2>
 	<form>
   <fieldset disabled>
-    <div class="mb-3">
-      <label for="disabledTextInput" class="form-label">Location</label>
-      <input type="text" id="disabledTextInput" class="form-control" placeholder="Winneba">
-    </div>
 	<div class="mb-3">
-      <label for="disabledTextInput" class="form-label">Phone Number</label>
+      <label for="disabledTextInput" class="form-label">Customer Service</label>
       <input type="text" id="disabledTextInput" class="form-control" placeholder="0547815672">
     </div>
 	<div class="mb-3">
@@ -209,13 +205,13 @@
       <input type="text" id="disabledTextInput" class="form-control" placeholder="adongokhen1@gmail.com">
     </div>
   </fieldset>
-  <a href="#" class="btn">Send Us a message</a>
+  <a href="#" class="btn">Order Now!</a>
 </form>
 	</div>
 
 	 <!-- Footer -->
 	 <footer>
-    <p>&copy; 2023 preOrder.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a href="#" id="whatsapp-button">Customer Service</a></p>
+    <p>&copy; 2023 manycompanies.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a href="#" id="whatsapp-button">Contact Us</a></p>
   </footer>
 
 	<!-- Optional JavaScript; choose one of the two! -->

@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -83,28 +83,28 @@
 			<h6><strong>STREETWISE BONELESS MEAL </strong></h6>
 			<span>3pcs Tenders and Chips</span><br>
 			<h6><strong> GHC49.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="v2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KFC WINGMAN</strong></h6>
 			<span>6pcs Zinger Wings and Large Chips</span><br>
 			<h6><strong> GHC91.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="v3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KFC BIG DEAL - HOT & CRISPY </strong></h6>
 			<span>4 Pieces of Hot & Crispy Chicken, 8x Nuggets, 2x Dips, Large Chips and 2x 300ML Drinks.</span><br>
 			<h6><strong> GHC186.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="v4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KFC BIG DEAL - ORIGINAL</strong></h6>
 			<span>4 Pieces of Hot & Crispy Chicken, 8x Nuggets, Large Chips, 2x Dips and 2x 300ML Drinks.</span><br>
 			<h6><strong> GHC186.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -113,28 +113,28 @@
 			<h6><strong>CHICKEN POPS MEAL </strong></h6>
 			<span>Chicken Pops, Large Chips & 300ML Drink.</span><br>
 			<h6><strong> GHC77.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="v6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>ZINGER NUGGET MEAL - MINI KRUSHER</strong></h6>
 			<span>8 Nuggets, Chips and Mini Krusher</span><br>
 			<h6><strong> GHC86.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="v7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>ZINGER NUGGET MEAL - DRINK </strong></h6>
 			<span>8 Nuggets, Chips and 300ML Drink</span><br>
 			<h6><strong>GHC86.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="v8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
 			<span>Inner Fillet with KFC Spicy Rice</span><br>
 			<h6><strong>GHC41.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -143,7 +143,7 @@
 			<h6><strong>KYEMP3</strong></h6>
 			<span>8 Tenders, Large Chips and 2x Dips</span><br>
 			<h6><strong>GHC126.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/VeDQWAHgmvxDUPTd6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		

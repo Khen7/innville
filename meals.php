@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -83,28 +83,28 @@
 			<h6><strong>BURGER MEAL - ZINGER </strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC90.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="m2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BURGER MEAL - COLONEL</strong></h6>
 			<span>1pc Buns, Colonel Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
-			<h6><strong>GHC30.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<h6><strong>GHC90.00</strong></h6><br>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="m3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>TWISTER MEAL - ZINGER </strong></h6>
 			<span>1pc Tortilla, Zinger Dressing, 2pc Crispy Strips, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="m4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>TWISTER MEAL - COLONEL</strong></h6>
 			<span>1pc Tortilla, Zinger Dressing, 2pc Crispy Strips, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -113,21 +113,28 @@
 			<h6><strong>BOXMASTER MEAL - COLONEL</strong></h6>
 			<span>Colonel Boxmaster, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC110.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="m6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER MEAL - ZINGER</strong></h6>
 			<span>Zinger Boxmaster, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC110.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="m7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>FAMILY TREAT </strong></h6>
 			<span>6 Pieces of Chicken, 4pcs Lime Chilli Wings, 2x Regular Chips, 2x KFC Spicy Rice, 2x Coleslaw and 3x 300ML Drinks.</span><br>
 			<h6><strong>GHC281.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col2">
+			<img src="m7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>FAMILY TREAT </strong></h6>
+			<span>6 Pieces of Chicken, 4pcs Lime Chilli Wings, 2x Regular Chips, 2x KFC Spicy Rice, 2x Coleslaw and 3x 300ML Drinks.</span><br>
+			<h6><strong>GHC281.00</strong></h6><br>
+			<a href="https://forms.gle/BjMaQmLcqQmq6Jth7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		</div>

@@ -23,7 +23,7 @@ var x = setInterval(function() {
   // If the countdown is over, display a message
   if (timeRemaining < 0) {
     clearInterval(x);
-    document.getElementById("countdown").innerHTML = "Preorder now!";
+    document.getElementById("countdown").innerHTML = "WE HAVE LAUNCHED!";
   }
 }, 1000);
 

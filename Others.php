@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -82,29 +82,29 @@
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER ZINGER</strong></h6>
 			<span>1pc Tortilla, Zinger Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
-			<h6><strong>GHC60.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC80.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER COLONEL</strong></h6>
 			<span>1pc Tortilla, Colonel Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
-			<h6><strong>GHC60.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC80.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>																							
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>TWISTER ZINGER</strong></h6>
 			<span>1pc Tortilla, Zinger Dressing and 2pc Inner Filet</span><br>
-			<h6><strong>GHC50.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC61.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>TWISTER COLONEL</strong></h6>
 			<span>1pc Tortilla, Colonel Dressing and 2pc Inner Filet</span><br>
-			<h6><strong>GHC50.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC61.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -112,29 +112,29 @@
 			<img src="o5.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>6 ZINGER NUGGETS</strong></h6>
 			<span>6 Nuggets and 1x Dip</span><br>
-			<h6><strong>GHC46.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC51.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>12 ZINGER NUGGETS</strong></h6>
 			<span>12 Nuggets and 2x Dips</span><br>
-			<h6><strong>GHC76.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC86.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>24 ZINGER NUGGETS</strong></h6>
 			<span>24 Nuggets and 4x Dips</span><br>
 			<h6><strong>GHC121.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>LIME CHILLI WINGS - 12 PIECES</strong></h6>
 			<span>12 pieces of succulent winglets breaded in our hot, spicy Zinger breading</span><br>
-			<h6><strong>GHC101.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC131.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -142,29 +142,29 @@
 			<img src="o8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>LIME CHILLI WINGS - 6 PIECES</strong></h6>
 			<span>6 pieces of succulent winglets breaded in our hot, spicy Zinger breading</span><br>
-			<h6><strong>GHC61.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC77.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o9.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>POPS - LARGE</strong></h6>
 			<span>Bite-sized pieces of chicken that are tender on the inside and crunchy on the outside.</span><br>
-			<h6><strong>GHC51.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC66.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o10.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>POPS - REGULAR</strong></h6>
 			<span>Bite-sized pieces of chicken that are tender on the inside and crunchy on the outside.</span><br>
-			<h6><strong>GHC41.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC56.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o13.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>SIDE - KFC SPICY RICE</strong></h6>
 			<span>350 gram KFC Spicy Rice.</span><br>
-			<h6><strong>GHC31.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC36.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -172,29 +172,29 @@
 			<img src="o14.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>LARGE CHIPS</strong></h6>
 			<span>Large Chips</span><br>
-			<h6><strong>GHC31.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC41.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o15.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>REGULAR CHIPS</strong></h6>
 			<span>Regular Chips</span><br>
-			<h6><strong>GHC26.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC36.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
-			<img src="o15.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<img src="o28.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>EXTRA - CHEESE SLICE</strong></h6>
 			<span>1 Sliced Cheese</span><br>
-			<h6><strong>GHC21.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC23.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o16.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>EXTRA HASH BROWN</strong></h6>
+			<h6><strong>EXTRA - HASH BROWN</strong></h6>
 			<span>1 Hash Brown</span><br>
-			<h6><strong>GHC18.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC19.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -203,28 +203,28 @@
 			<h6><strong>1 PIECE CHICKEN - HOT & CRISPY</strong></h6>
 			<span>1 Piece of Hot & Crispy Chicken</span><br>
 			<h6><strong>GHC34.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o24.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>1 PIECE CHICKEN - ORIGINAL</strong></h6>
 			<span>1 Piece of Original Chicken</span><br>
 			<h6><strong>GHC34.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>	
 		<div class="col-md-5" id="service-col1">
 			<img src="o25.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>2 PIECES CHICKEN - HOT & CRISPY</strong></h6>
 			<span>2 Pieces of Hot & Crispy Chicken</span><br>
 			<h6><strong>GHC55.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
 			<span>2 Piece of Original Chicken</span><br>
 			<h6><strong>GHC55.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -232,29 +232,29 @@
 			<img src="o19.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>COCA COLA 300ML</strong></h6>
 			<span>Enjoy a refreshing 300ML Coca Cola</span><br>
-			<h6><strong>GHC21.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC22.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o20.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>FANTA 300ML</strong></h6>
 			<span>Enjoy a refreshing 300ML Fanta</span><br>
-			<h6><strong>GHC21.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC22.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>	
 		<div class="col-md-5" id="service-col1">
 			<img src="o21.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>SPRITE 300ML</strong></h6>
 			<span>Enjoy a refreshing 300ML Sprite</span><br>
-			<h6><strong>GHC21.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC22.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o22.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>WATER 500ML</strong></h6>
 			<span>Enjoy a refreshing 500ML Bottled Water</span><br>
-			<h6><strong>GHC21.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<h6><strong>GHC22.00</strong></h6><br>
+			<a href="https://forms.gle/Sv7nQg4ABHiEjKxC7" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 	

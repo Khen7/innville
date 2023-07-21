@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="index.php">Contact Us</a>
+				href="#contactus"><strong>Order on 0547815672</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -83,28 +83,28 @@
 			<h6><strong>STREETWISE 5 - HOT & CRISPY </strong></h6>
 			<span>5 Pieces of Hot & Crispy Chicken and Large Chips. </Span><br>
 			<h6><strong> GHC116.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
 			<span>5 Pieces of Original Chicken and Large Chips.</span><br>
 			<h6><strong>GHC116.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>STRRETWISE 3 RICE - HOT & CRISPY </strong></h6>
+			<h6><strong>STREETWISE 3 RICE - HOT & CRISPY </strong></h6>
 			<span>3 Pieces of Hot & Crispy Chicken and KFC Spicy Rice</span><br>
 			<h6><strong>GHC86.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="s4.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 3 RICE - ORIGINAL</strong></h6>
 			<span>1 Zinger/Colonel Burger, 1 Piece of Chicken, Regular Chips, Coleslaw and 300ML Drink</span><br>
 			<h6><strong>GHC86.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -113,28 +113,28 @@
 			<h6><strong>STREETWISE 3 CHIPS - HOT & CRISPY </strong></h6>
 			<span>3 Pieces of Hot & Crispy Chicken and Small Chips </span><br>
 			<h6><strong>81.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 3 CHIPS - ORIGINAL</strong></h6>
 			<span>3 Pieces of Original Chicken and Small Chips</span><br>
-			<h6><strong>GHC30.00</strong></h6><br>
-			<a href="burger.php" class="btn">Order Now</a>
+			<h6><strong>GHC81.00</strong></h6><br>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s7.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 2 RICE - HOT & CRISPY </strong></h6>
 			<span>2 Pieces of Hot & Crispy Chicken and KFC Spicy Rice</span><br>
 			<h6><strong>GHC71.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="s8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 2 RICE - ORIGNAL</strong></h6>
 			<span>2 Pieces of Original Chicken and KFC Spicy Rice</span><br>
 			<h6><strong>GHC71.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -143,14 +143,28 @@
 			<h6><strong>STREETWISE 2 CHIPS - HOT & CRISPY </strong></h6>
 			<span>2 Pieces of Hot & Crispy Chicken and Small Chips</span><br>
 			<h6><strong>GHC63.00</strong></h6><br>
-			<a href="deal.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="s10.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 2 CHIPS - ORIGNAL</strong></h6>
 			<span>2 Pieces of Original Chicken and Small Chips</span><br>
 			<h6><strong>GHC63.00</strong></h6><br>
-			<a href="box.php" class="btn">Order Now</a>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="o27.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>CRUNCH BURGER MEAL</strong></h6>
+			<span>Crunch Burger, Regular Chips and 300ML Drink.</span><br>
+			<h6><strong>GHC66.00</strong></h6><br>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
+		</div>
+		<div class="col-md-5" id="service-col1">
+			<img src="o27.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>CRUNCH BURGER MEAL</strong></h6>
+			<span>Crunch Burger, Regular Chips and 300ML Drink.</span><br>
+			<h6><strong>GHC66.00</strong></h6><br>
+			<a href="https://forms.gle/8SxBzbsJ3aCJKeRy6" target="_blank" class="btn">Order Now</a>
 		</div>
 		</div>
 	</div>
