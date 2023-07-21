@@ -179,11 +179,13 @@
 	<h2 class="text-center">ABOUT US</h2>
 	<div class="about" id="aboutus">
 	<div class="text">
-		<p> Welcome to our fast food ordering website! We are students from University of Education - Winneba who are 
-			passionate about bringing good food and convenience to our society. Our platform allows you to browse a variety of 
-			meals and place orders online. Once your order is confirmed, you wil receive a notification	within 24 hours when your order is ready for pick up, 
-			so you can enjoy your favorite meals without the hassle of traveling long distances or waiting in line to get a bite of your favourite fast food. 
-			Thank you for choosing our website for your food needs!
+		<p> 
+		NEXXIT is the ultimate KFC ordering platform in Winneba, 
+		offering quick and convenient delivery of the world-famous KFC menu to your doorstep within just 12 hours or express on request. 
+		With three easy ordering methods; <a href="value.php">Order Online</a> | <a href="#contactus">Order on Call</a> | <a href="#" id="whatsapp-button">Order on Whatsapp</a>. 
+		NEXXIT caters exclusively to Winneba residents' taste buds and provides exceptional customer service. 
+		With a focus on exclusivity and customer satisfaction, NEXXIT is the one-stop-site for all your KFC cravings, whether it's a family meal, 
+		personal indulgence, or a get-together with friends. Join NEXXIT and experience the KFC experience at your doorstep in Winneba.
 		</p>
 		</div>
 		<div class="back">
