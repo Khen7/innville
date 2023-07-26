@@ -24,7 +24,7 @@
 }
 
 .navbar-brand{
-	width: 300px;
+	width: 200px;
 	height: 50px;
 }
   
@@ -77,37 +77,36 @@
 	font-size: 18px;
 }
 
-h1 {
-	font-size: 3rem;
-	color: black;
-	}
-	
-	p {
-	font-size: 1.5rem;
+	h3 {
+	font-size: 1.7rem;
 	color: black;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
 	}
-	
-	.btn {
-	display: inline-block;
-	background-color: black;
-	color: white;
-	padding: 10px;
-	border-radius: 3px;
-	text-decoration: none;
-	font-size: 1rem;
-	transition: all 0.3s ease-in-out;
-	}
-	
-	.btn:hover {
-	background-color: gray;
-	color: #ffffff;
-	}
+
+	.call-button {
+		display: inline-block;
+		background-color: #25D366;
+		color: #fff;
+		padding: 17px 75px;
+		border-radius: 10px;
+		text-decoration: none;
+		margin-top: 30px;
+		font-size: 20px;
+		}
+
+		.call-button:hover{
+        color: #fff;
+		}
+  
+	  .call-icon {
+		margin-right: 15px;
+		font-size: 30px;
+	  }
 
 	.banner .back{
 		width: 50%;
-		height: 90%;
+		height: 85%;
 		box-shadow: 10px 10px 5px -5px rgba(0, 0, 0, 0.75);
 	}
 	
@@ -221,7 +220,13 @@ h1 {
 }
 
 .cards .col-md-5 .btn{
+	background-color: black;
+	color: #fff;
 	width: 50%;
+}
+
+.cards .col-md-5 .btn:hover{
+background-color: gray;
 }
 
 /* aboutUs */
@@ -267,7 +272,7 @@ h1 {
 .contact {
 	width: 80%;
     height: 70vh;
-	padding-top: 60px;  
+	padding-top: 30px;  
     margin: auto;
 }
 
@@ -322,8 +327,8 @@ h1 {
 	.banner {
 		flex-direction: column-reverse;
 		width: 100%;
-		height: 80vh;  
-		margin-top: 100px;
+		height: 85vh;  
+		margin-top: 65px;
 	}
 
 	.banner .text{

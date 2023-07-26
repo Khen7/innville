@@ -10,6 +10,7 @@
 
 	<!-- Bootstrap CSS -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 	<link rel="stylesheet" href="index.css" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
@@ -21,7 +22,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="#">
-			<img src="logo.png" alt="error">
+			<img src="NEX0.jpg" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
@@ -66,7 +67,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#contactus"><strong>Order on Call</strong></a>
+				href="tel:+233203786321"><strong>Order on Call</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -78,8 +79,13 @@
 	<div class="banner" id="home">
 		<div class="text">
 		<h3>Get KFC fast foods in Winneba within 12 hours.</h3>
-		<a href="#" id="whatsapp-button" class="btn">Order on Whatsapp</a>
-		</div>
+		<a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321"> 
+			<img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" target="_blank" >
+		</a>
+		<a href="tel:+233203786321" class="call-button">
+		<i class="fas fa-phone-alt call-icon"></i><strong>Order on Call</strong>	
+        </a>
+	</div>
 <div class="back">
 	<img src="back8.jpeg" alt="error">
 </div>
@@ -181,8 +187,8 @@
 	<div class="text">
 		<p> 
 		NEXXIT is the ultimate KFC ordering platform in Winneba, 
-		offering quick and convenient delivery of the world-famous KFC menu to your doorstep within just 12 hours or express on request. 
-		With three easy ordering methods; <a href="value.php">Order Online</a> | <a href="#contactus">Order on Call</a> | <a href="#" id="whatsapp-button">Order on Whatsapp</a>. 
+		offering quick and convenient delivery of the world-famous KFC menu to your doorstep within just 12 hours or fastter on request. 
+		With three easy ordering methods; <a href="value.php">Order Online</a> | <a href="tel:+233203786321">Order on Call</a> | <a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321" target="_blank">Order on WhatsApp </a>.
 		NEXXIT caters exclusively to Winneba residents' taste buds and provides exceptional customer service. 
 		With a focus on exclusivity and customer satisfaction, NEXXIT is the one-stop-site for all your KFC cravings, whether it's a family meal, 
 		personal indulgence, or a get-together with friends. Join NEXXIT and experience the KFC experience at your doorstep in Winneba.
@@ -195,7 +201,7 @@
 
 	<!-- contactus-->
 	<div class="contact" id="contactus">
-	<h2 class="text-center">ORDERS & ENQUIRIES</h2>
+	<h2 class="text-center">CONTACT US</h2>
 	<form>
   <fieldset disabled>
 	<div class="mb-3">
@@ -206,14 +212,17 @@
       <label for="disabledTextInput" class="form-label">Email</label>
       <input type="text" id="disabledTextInput" class="form-control" placeholder="adongokhen1@gmail.com">
     </div>
+	<div class="mb-3">
+      <label for="disabledTextInput" class="form-label">Distribution Center</label>
+      <input type="text" id="disabledTextInput" class="form-control" placeholder="Effutu Library, Winneba">
+    </div>
   </fieldset>
-  <a href="#" class="btn">Order Now!</a>
 </form>
 	</div>
 
 	 <!-- Footer -->
 	 <footer>
-    <p>&copy; 2023 manycompanies.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a href="#" id="whatsapp-button">Contact Us</a></p>
+    <p>&copy; 2023 manycompanies.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321" target="_blank">Contact Us </a>
   </footer>
 
 	<!-- Optional JavaScript; choose one of the two! -->
