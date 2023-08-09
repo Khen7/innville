@@ -49,7 +49,7 @@
 			
 			<li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle nav-link" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Menu
+		  Categories
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item" href="value.php">VALUE DEALS</a></li>
@@ -66,7 +66,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#contactus"><strong>Order on 0547815672</strong></a>
+				href="tel:+233203786321"><strong>Customer Service</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -76,7 +76,10 @@
 
 <!--Menu-->
 <div class="men" id="mens">
-<h2 class="text-center"><strong>Burgers</strong></h2><hr>
+<div class="title">
+<h2 class="text-center"><strong>Burgers</strong></h2>
+<h5 class="text-center"><a class="nav-link" href="tel:+233203786321">you can click here to place an order on call</a></h5>
+	    </div><hr>
 <div class="cards">
 	<div class="col-md-5" id="service-col1">
 			<img src="bg1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>

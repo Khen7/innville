@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 *{
 	margin: 0;
 	padding: 0;
@@ -92,7 +94,7 @@
 		border-radius: 10px;
 		text-decoration: none;
 		margin-top: 30px;
-		font-size: 20px;
+		font-size: 18px;
 		}
 
 		.call-button:hover{
@@ -100,7 +102,7 @@
 		}
   
 	  .call-icon {
-		margin-right: 15px;
+		margin-right: 25px;
 		font-size: 30px;
 	  }
 
@@ -149,7 +151,7 @@
 	font-size: 15px;
 }
 
-/* preorders*/
+/* preorders
 .preorder{
 	width: 100%;
 	height: 160px;
@@ -176,11 +178,31 @@ h1 {
 	font-size: 30px;
 	margin-top: 10px;
   }
+  */
 
 /* Menu */
 .men{
 	padding-top: 100px;
     margin: auto;
+}
+.title{
+	margin: auto;
+	width: 50%;
+	height: 1	00px;
+	color: #333;
+}
+
+.title h2{
+	padding-top: 0px;	
+}
+.title a{
+	margin-top: -50px;
+	color: gray;
+}
+
+.title a:hover{
+	color: #000;
+	text-decoration: underline;
 }
 
 .men .cards{
@@ -306,6 +328,107 @@ background-color: gray;
 	text-decoration: underline;
   }
 
+
+  /* media */
+@media only screen and (max-width: 768px) and (min-width: 424px){
+
+/* banner */
+.banner .text{
+	width: 30%;
+}
+
+	h3 {
+	font-size: 1.3rem;
+	margin-top: 0rem;
+	}
+
+	.text .chat{
+		width: 100%;
+	}
+
+	.chat img{
+		width: 100%;
+	}
+
+	.call-button {
+		padding: 10px 30px;
+		border-radius: 10px;
+		text-decoration: none;
+		margin-top: 30px;
+		font-size: 20px;
+		}
+  
+	  .call-icon {
+		margin-right: 10px;
+	  }
+
+	.banner .back{
+		height: 65%;
+	}
+
+		/* how */
+		.how .cards{
+			width: 85%;
+		}
+		
+		.cards .col-md-4{
+			width: 35%;
+		}
+
+	.cards .col-md-4 p{
+		font-size: 12px;
+	}
+
+/* menu */
+.men .cards{
+	width: 100%;		
+}	
+
+.cards .col-md-5{
+	width: 24%;
+	height: 20rem;
+}
+
+.cards .col-md-5 img{
+	height: 175px;	
+}
+
+.cards .col-md-5 span{
+	font-size: 10px;
+}
+
+.cards .col-md-5 p{
+	font-size: 11px
+}
+
+.cards .col-md-5 .btn{
+	width: 90%;
+}
+
+/* aboutUs */
+
+.text-center{
+	padding-top: 50px;
+}
+
+.text{
+	margin-top: 20px;
+}
+
+.text p{
+	font-size: 15px;
+}
+
+	p {
+	font-size: 1.2rem;
+	}
+
+	/* contact */
+	.contact {
+		margin-bottom: 60px;
+	}
+	}
+
 /* media */
 @media only screen and (max-width: 425px) {
 
@@ -327,7 +450,7 @@ background-color: gray;
 	.banner {
 		flex-direction: column-reverse;
 		width: 100%;
-		height: 85vh;  
+		height: 90vh;  
 		margin-top: 65px;
 	}
 
@@ -335,8 +458,9 @@ background-color: gray;
 		margin: auto;
 		text-align: center;
 		width: 100%;
+		padding-top: 10px;
 	}
-	
+
 	.text p{
 		width: 100%;
 		margin: auto;
@@ -358,13 +482,54 @@ background-color: gray;
 
 		.banner .back{
 			width: 100%;
-			height: 70%;
+			height: 55%;
 		}
+
+		.action{
+			width: 90%;
+			height: 60px;
+			display: flex;
+			margin: auto;
+			align-items:center;
+			justify-content:space-between;
+		}
+
+		.whatsapp-button{
+			width: 45%;
+			height: 60px;
+		}
+
+		.whatsapp-button img{
+		width: 100%;
+		height: 100%;
+		}
+
+
+		.call-button {
+			display: inline-block;
+			align-items: center;
+			width: 45%;
+			height: 60px;
+			margin-bottom: 30px;
+			font-size: 13px;
+			padding: 17px 5px;
+			}
+	  
+		  .call-button i {
+			width: 20%;
+			background-color: aqua;
+			font-size: 20px;
+		  }
+
+		  .call-button strong{
+			width: 80%;
+            background-color: #000;
+		  }
 
 /* how */
 .how{
 	background-color: aliceblue;
-	padding-top: 50px;
+	padding-top: 30px;
     margin: auto;
 }
 
@@ -375,7 +540,7 @@ background-color: gray;
 
 .cards .col-md-4{
 	width: 70%;
-}
+	}
 
 /* preorders*/
 .preorder{
@@ -396,6 +561,10 @@ background-color: gray;
   }
 
 /* Menu */
+.title{
+	width: 80%;
+}
+
 .men{
 	padding-top: 90px;
     margin: auto;
@@ -423,6 +592,10 @@ width: 100%;
 	font-size: 12px
 }
 
+.cards .col-md-5 .btn{
+	width: 50%;
+}
+
 /* aboutUs */
 .about {
 	flex-direction: column;
@@ -441,6 +614,7 @@ width: 100%;
 	/* contactUs */
 	.contact{
 		height: 100vh;
+		width: 100%;
 	}
 
 	.btn{

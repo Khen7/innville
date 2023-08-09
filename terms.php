@@ -27,13 +27,13 @@
 1. Our website acts as a middleman between you and fast food vendors. We do not produce any of the food ourselves, but we help you order food from our vendors.
     </p>
     <p>
-    2. When you place an order on our website, you will be required to pay for your order online before coming to pick it up at the designated distribution center. We accept various forms of online payment, including credit cards, debit cards, and PayPal. We will not be held responsible for any transactional errors from clients leading to loss of their funds or fraud.
+    2. When you place an order on our website, you will be required to pay for your order online before coming to pick it up at the designated distribution center. We accept MTN Mobbile Money and Vodafone Cash as forms of payment. We will not be held responsible for any transactional errors from clients leading to loss of their funds or fraud.
     </p>
     <p>
     3. Once your order is ready for pickup, we will contact you using the contact information you provided during checkout. You will be required to come to the designated distribution center to pick up your order within a reasonable timeframe. Failure to pick up your order within a reasonable timeframe may result in cancellation of your order and forfeiture of any payment made.
     </p>
     <p>
-    4.We are not responsible for any issues or disputes that arise between you and our vendors. Any complaints or issues with the food or service provided by our vendors should be directed to the vendor in question.
+    4. Any complaints or issues with the food or service provided by our vendors should be directed to the NEXXIT customer care.
     </p>
     <p>
     5. Our website and its contents are provided on an "as is" basis without any representations or warranties of any kind, either express or implied. We do not guarantee that our website will be error-free, uninterrupted, or free from viruses or other harmful components.
@@ -45,12 +45,12 @@
 7. We reserve the right to modify, suspend or discontinue all or any part of our website at any time without prior notice.
     </p>
     <p>
-    8. These terms and conditions are governed by and construed in accordance with the laws of [Insert Country] and you agree to submit to the exclusive jurisdiction of the [Insert Country] courts.
+    8. These terms and conditions are governed by and construed in accordance with the laws of Ghana and you agree to submit to the exclusive jurisdiction of the Ghanaian courts.
     </p>
    
     <p>
     
-    If you have any questions or concerns about these terms and conditions, please contact us at [Insert Contact Information].
+    If you have any questions or concerns about these terms and conditions, please contact our customer service.
 
 By using our website, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
     </p>

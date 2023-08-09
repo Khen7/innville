@@ -22,7 +22,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="#">
-			<img src="NEX0.jpg" alt="error">
+			<img src="NEX1.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
@@ -50,7 +50,7 @@
 			
 			<li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle nav-link" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Menu
+            Categories
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item" href="value.php">VALUE DEALS</a></li>
@@ -67,7 +67,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="tel:+233203786321"><strong>Order on Call</strong></a>
+				href="tel:+233203786321"><strong>Customer Service</strong></a>
 			</li>
 			</ul>
 		</div>
@@ -79,12 +79,14 @@
 	<div class="banner" id="home">
 		<div class="text">
 		<h3>Get KFC fast foods in Winneba within 12 hours.</h3>
-		<a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321"> 
-			<img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" target="_blank" >
+		<div class="action">
+		<a aria-label="Chat on WhatsApp" class="whatsapp-button" href="https://wa.me/233203786321"> 
+			<img class="chat" alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" target="_blank" >
 		</a>
 		<a href="tel:+233203786321" class="call-button">
 		<i class="fas fa-phone-alt call-icon"></i><strong>Order on Call</strong>	
         </a>
+		</div>
 	</div>
 <div class="back">
 	<img src="back8.jpeg" alt="error">
@@ -110,14 +112,15 @@
 		</div><hr>
 	</div>
 	
-<!--preOrder-->
+<!--preOrder
 <div class="preorder" id="preorders">
 <h2><strong>Preorder Promotion</strong></h2>
     <p>Make a preorder now before the official launching of NEXXIT and get a GHC5.00 discount. <span><i>NOTE: This order will arrive a day after the end of this countdown.</i></span></p>
     <div id="countdown"></div>
 </div>
-
+-->
 	<!--Menu-->
+	<h2 class="text-center"><strong>CATEGORIES</strong></h2>
 	<div class="men" id="mens">
 	<div class="cards">
 	<div class="col-md-5" id="service-col1">
@@ -125,28 +128,28 @@
 			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
 			<span>Inner Fillet with KFC Spicy Rice</span><br>
 			<h6><strong>GHC41.00</strong></h6><br>
-			<a href="value.php" class="btn">See Menu</a>
+			<a href="value.php" class="btn">Value Deals</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
 			<span>5 Pieces of Original Chicken and Large Chips.</span><br>
 			<h6><strong>GHC116.00</strong></h6><br>
-			<a href="streetwise.php" class="btn">See Menu</a>
+			<a href="streetwise.php" class="btn">StreetWise</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BURGER MEAL - ZINGER</strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
 			<h6><strong>GHC90.00</strong></h6><br>
-			<a href="meals.php" class="btn">See Menu</a>
+			<a href="meals.php" class="btn">Meals</a>
 		</div>
 		<div class="col-md-5" id="service-col2">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
 			<span>10 Tenders, 2 Large Chips and 3x Dips</span><br>
 			<h6><strong>GHC171.00 CEDIS</strong></h6><br>
-			<a href="buckets.php" class="btn">See Menu</a>
+			<a href="buckets.php" class="btn">KFC Buckets</a>
 		</div>
 		</div>
 		<div class="cards">
@@ -155,34 +158,34 @@
 			<h6><strong>ZINGER TOWER BURGER</strong></h6>
 			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
 			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="burger.php" class="btn">See Menu</a>
+			<a href="burger.php" class="btn">Burgers</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER ZINGER</strong></h6>
 			<span>1pc Tortilla, Zinger Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
 			<h6><strong>GHC60.00</strong></h6><br>
-			<a href="others.php" class="btn">See Menu</a>
+			<a href="others.php" class="btn">Others</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>24 ZINGER NUGGETS</strong></h6>
 			<span>24 Nuggets and 4x Dips</span><br>
 			<h6><strong>GHC121.00</strong></h6><br>
-			<a href="others.php" class="btn">See Menu</a>
+			<a href="others.php" class="btn">Others</a>
 		</div>
 		<div class="col-md-5" id="service-col1">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
 			<span>2 Piece of Original Chicken</span><br>
 			<h6><strong>GHC55.00</strong></h6><br>
-			<a href="others.php" class="btn">See Menu</a>
+			<a href="others.php" class="btn">Others</a>
 		</div>
 		</div>
 	</div><hr>
 
 	<!-- aboutUs-->
-	<h2 class="text-center">ABOUT US</h2>
+	<h2 class="text-center"><strong>ABOUT US</strong></h2>
 	<div class="about" id="aboutus">
 	<div class="text">
 		<p> 
@@ -201,7 +204,7 @@
 
 	<!-- contactus-->
 	<div class="contact" id="contactus">
-	<h2 class="text-center">CONTACT US</h2>
+	<h2 class="text-center"><strong>CONTACT US</strong></h2>
 	<form>
   <fieldset disabled>
 	<div class="mb-3">
