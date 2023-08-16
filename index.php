@@ -22,7 +22,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="#">
-			<img src="NEX1.png" alt="error">
+			<img src="nexlog.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"

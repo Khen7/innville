@@ -21,7 +21,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="index.php">
-			<img src="logo.png" alt="error">
+			<img src="nexlog.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
