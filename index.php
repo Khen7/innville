@@ -14,6 +14,9 @@
 	<link rel="stylesheet" href="index.css" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
+
+	<link rel="stylesheet" type="text/css" href="/poppins/poppins.css">
+
 	<title>NEXXIT</title>
 </head>
 
@@ -41,33 +44,23 @@
 			<li class="nav-item">
 				<a class="nav-link active"
 				aria-current="page"
-				href="#">Home</a>
+				href="#"><strong>Home</strong></a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#hows">How It Works</a>
+				href="#hows">Be a rider</a>
 			</li>
-			
-			<li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle nav-link" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Categories
-          </a>
-          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item" href="value.php">VALUE DEALS</a></li>
-            <li><a class="dropdown-item" href="streetwise.php">STREETWISE</a></li>
-            <li><a class="dropdown-item" href="meals.php">MEALS</a></li>
-			<li><a class="dropdown-item" href="buckets.php">BUCKETS</a></li>
-			<li><a class="dropdown-item" href="burger.php">BURGERS</a></li>
-			<li><a class="dropdown-item" href="Others.php">OTHERS</a></li>
-          </ul>
-        </li>
+			<li class="nav-item">
+				<a class="nav-link"
+				href="#vendor">Vendors</a>
+			</li>	
 			<li class="nav-item">
 				<a class="nav-link"
 				href="#aboutus">About Us</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="tel:+233203786321"><strong>Customer Service</strong></a>
+				href="tel:+233203786321">Customer Service</a>
 			</li>
 			</ul>
 		</div>
@@ -78,36 +71,49 @@
 	<!-- banner -->
 	<div class="banner" id="home">
 		<div class="text">
-		<h3>Get KFC fast foods in Winneba within 12 hours.</h3>
+		<h2><strong>WELCOME TO DES</strong></h2>
+		<h4>Make long and short distance deliveries with ease.</h4>
+		<h4>We are: <strong> Fast. Reliable. Safe. </strong></h4>
 		<div class="action">
-		<a aria-label="Chat on WhatsApp" class="whatsapp-button" href="https://wa.me/233203786321"> 
-			<img class="chat" alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" target="_blank" >
-		</a>
 		<a href="tel:+233203786321" class="call-button">
-		<i class="fas fa-phone-alt call-icon"></i><strong>Order on Call</strong>	
+		<i class="fas fa-phone-alt call-icon"></i><strong>Make a delivery</strong>	
         </a>
 		</div>
 	</div>
-<div class="back">
-	<img src="back8.jpeg" alt="error">
-</div>
 	</div>
 
 	<!-- how-->
 	<div class="how" id="hows">
-	<h2 class="text-center">HOW IT WORKS</h2>
 	<div class="cards">
-	<div class="col-md-4" id="service-col1">
-			<img src="order.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>CHOOSE ITEM</p>
+	<div class="col-md-4" id="service-col3">
+			<img src="del2.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<div class="text">
+			<h4 class="text-center"><strong>Be a Rider</strong></h4>
+		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
+		<a href="tel:+233203786321" class="call-button">
+		<strong>Register</strong>
+        </a>
 		</div>
-		<div class="col-md-4" id="service-col2">
-			<img src="pay.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>FILL ORDER FORM & MAKE PAYMENT</p>
 		</div>
 		<div class="col-md-4" id="service-col3">
-			<img src="pick.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<p>PICK UP ORDER</p>
+		<img src="del2.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<div class="text">
+			<h4 class="text-center"><strong>Become our Business Paddie</strong></h4>
+		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
+		<a href="tel:+233203786321" class="call-button">
+		<strong>Register</strong>
+        </a>
+		</div>
+		</div>
+		<div class="col-md-4" id="service-col3">
+		<img src="ware.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<div class="text">
+			<h4 class="text-center"><strong>Be a Warehouse</strong></h4>
+		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
+		<a href="tel:+233203786321" class="call-button">
+		<strong>Register</strong>
+        </a>
+		</div>
 		</div>
 		</div><hr>
 	</div>
@@ -119,67 +125,69 @@
     <div id="countdown"></div>
 </div>
 -->
-	<!--Menu-->
-	<h2 class="text-center"><strong>CATEGORIES</strong></h2>
-	<div class="men" id="mens">
-	<div class="cards">
-	<div class="col-md-5" id="service-col1">
-			<img src="v8.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>KFC CHICKEN RICE BOWL</strong></h6>
-			<span>Inner Fillet with KFC Spicy Rice</span><br>
-			<h6><strong>GHC41.00</strong></h6><br>
-			<a href="value.php" class="btn">Value Deals</a>
+
+<!-- Riders
+<h2 class="text-center"><strong>BE A RIDER</strong></h2>
+	<div class="about" id="rider">
+	<div class="text">
+		<p> 
+		Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.
+		</p>
+		<a href="tel:+233203786321" class="call-button">
+		<strong>Register</strong>
+        </a>
 		</div>
-		<div class="col-md-5" id="service-col2">
+		<div class="back">
+			<img src="del.png">
+		</div>
+	</div><hr>
+-->
+
+	<!--vendor-->
+	<h2 class="text-center"><strong>Our Vendors</strong></h2>
+	<div class="men" id="vendor">
+	<div class="cards">
+	<div class="col-md-5" class="col-md-05" id="service-col0">
+			<img src="kfc.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
+			<h6><strong>KFC FAST FOODS</strong></h6>
+			<a href="kfchome.php" class="btn">View Menu</a>
+		</div>
+		<div class="col-md-5" class="col-md-05" id="service-col0">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
-			<span>5 Pieces of Original Chicken and Large Chips.</span><br>
-			<h6><strong>GHC116.00</strong></h6><br>
-			<a href="streetwise.php" class="btn">StreetWise</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" id="service-col1">
+		<div class="col-md-5" class="col-md-05" id="service-col0">
 			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BURGER MEAL - ZINGER</strong></h6>
-			<span>1pc Buns, Zinger Dressing, 1pc Fillet, Regular Chips and 300ML Drink</span><br>
-			<h6><strong>GHC90.00</strong></h6><br>
-			<a href="meals.php" class="btn">Meals</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" id="service-col2">
+		<div class="col-md-5" class="col-md-05" id="service-col0">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
-			<span>10 Tenders, 2 Large Chips and 3x Dips</span><br>
-			<h6><strong>GHC171.00 CEDIS</strong></h6><br>
-			<a href="buckets.php" class="btn">KFC Buckets</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
 		</div>
 		<div class="cards">
-		<div class="col-md-5" id="service-col2">
+		<div class="col-md-5" class="col-md-05" id="service-col0">
 			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>ZINGER TOWER BURGER</strong></h6>
-			<span>1pc Buns, Zinger Dressing, 1pc Fillet,1pc Hash Brown and Cheese</span><br>
-			<h6><strong>GHC80.00</strong></h6><br>
-			<a href="burger.php" class="btn">Burgers</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" id="service-col1">
+		<div class="col-md-5" class="col-md-05" id="service-col0">
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BOXMASTER ZINGER</strong></h6>
-			<span>1pc Tortilla, Zinger Dressing, 1pc Fillet, Cheese and 1pc Hash Brown</span><br>
-			<h6><strong>GHC60.00</strong></h6><br>
-			<a href="others.php" class="btn">Others</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" id="service-col1">
+		<div class="col-md-5" class="new" id="service-col0">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>24 ZINGER NUGGETS</strong></h6>
-			<span>24 Nuggets and 4x Dips</span><br>
-			<h6><strong>GHC121.00</strong></h6><br>
-			<a href="others.php" class="btn">Others</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" id="service-col1">
+		<div class="col-md-5" class="new" id="service-col0">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
-			<span>2 Piece of Original Chicken</span><br>
-			<h6><strong>GHC55.00</strong></h6><br>
-			<a href="others.php" class="btn">Others</a>
+			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
 		</div>
 	</div><hr>
