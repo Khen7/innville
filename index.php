@@ -10,14 +10,14 @@
 
 	<!-- Bootstrap CSS -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"/>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 	<link rel="stylesheet" href="index.css" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
 
 	<link rel="stylesheet" type="text/css" href="/poppins/poppins.css">
 
-	<title>NEXXIT</title>
+	<title>Delivered</title>
 </head>
 
 <body>
@@ -25,7 +25,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="#">
-			<img src="nexlog.png" alt="error">
+			<img src="delivered.jpg" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
@@ -44,20 +44,12 @@
 			<li class="nav-item">
 				<a class="nav-link active"
 				aria-current="page"
-				href="#"><strong>Home</strong></a>
+				href="#index"><strong>Home</strong></a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#hows">Be a rider</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link"
-				href="#vendor">Vendors</a>
+				href="#hows">Be our Business Partner</a>
 			</li>	
-			<li class="nav-item">
-				<a class="nav-link"
-				href="#aboutus">About Us</a>
-			</li>
 			<li class="nav-item">
 				<a class="nav-link"
 				href="tel:+233203786321">Customer Service</a>
@@ -71,12 +63,12 @@
 	<!-- banner -->
 	<div class="banner" id="home">
 		<div class="text">
-		<h2><strong>WELCOME TO DES</strong></h2>
-		<h4>Make long and short distance deliveries with ease.</h4>
-		<h4>We are: <strong> Fast. Reliable. Safe. </strong></h4>
+		<h1><strong>WELCOME TO <span class="dd">DELIVERED</span></strong></h1>
+		<h5><strong>Make short and long distance deliveries with ease.</strong></h5><br>	
+		<h5><strong>We deliver: Speed. Reliability. Smiles. </strong></h5>
 		<div class="action">
 		<a href="tel:+233203786321" class="call-button">
-		<i class="fas fa-phone-alt call-icon"></i><strong>Make a delivery</strong>	
+		<strong>Make a delivery</strong>	
         </a>
 		</div>
 	</div>
@@ -89,30 +81,24 @@
 			<img src="del2.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<div class="text">
 			<h4 class="text-center"><strong>Be a Rider</strong></h4>
-		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
-		<a href="tel:+233203786321" class="call-button">
-		<strong>Register</strong>
-        </a>
+		<span> Work at your own convenience and make extra money as a delivery rider.</span><br>
+		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a> 	
 		</div>
 		</div>
 		<div class="col-md-4" id="service-col3">
-		<img src="del2.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
+		<img src="store.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<div class="text">
-			<h4 class="text-center"><strong>Become our Business Paddie</strong></h4>
-		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
-		<a href="tel:+233203786321" class="call-button">
-		<strong>Register</strong>
-        </a>
+			<h4 class="text-center"><strong>Be a Vendor</strong></h4>
+		<span> Reach more customers and grow your business with us.</span><br>
+		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>
 		</div>
 		<div class="col-md-4" id="service-col3">
 		<img src="ware.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<div class="text">
-			<h4 class="text-center"><strong>Be a Warehouse</strong></h4>
-		<p> Join our diverse team of dedicated riders who are unwavering in their commitment to delivering fast and high-quality delivery service to our valued customers.</p>
-		<a href="tel:+233203786321" class="call-button">
-		<strong>Register</strong>
-        </a>
+			<h4 class="text-center"><strong>Be a Pickup Point</strong></h4>
+		<span> register as a warehousse and get commissions per pickup</span><br>
+		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Register</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>
 		</div>
 		</div><hr>
@@ -144,71 +130,125 @@
 -->
 
 	<!--vendor-->
-	<h2 class="text-center"><strong>Our Vendors</strong></h2>
-	<div class="men" id="vendor">
+	<h2 class="text-v"><strong>Our Vendors</strong></h2>
+	<div class="vmen" id="vendor">
 	<div class="cards">
-	<div class="col-md-5" class="col-md-05" id="service-col0">
+	<div class="col-md-5" id="service-col0">
 			<img src="kfc.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KFC FAST FOODS</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="col-md-05" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>STREETWISE 5 - ORIGINAL</strong></h6>
+			<h6><strong>KINGS AND QUEENS</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="col-md-05" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>BURGER MEAL - ZINGER</strong></h6>
+			<h6><strong>BIGGIE'S</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="col-md-05" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>BONELESS BUCKET MEAL</strong></h6>
+			<h6><strong>HENRY</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
 		</div>
 		<div class="cards">
-		<div class="col-md-5" class="col-md-05" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>ZINGER TOWER BURGER</strong></h6>
+			<h6><strong>TEMPEST LOUNGE</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="col-md-05" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>BOXMASTER ZINGER</strong></h6>
+			<h6><strong>ORBIT FOOD</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="new" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>24 ZINGER NUGGETS</strong></h6>
+			<h6><strong>PRAISE SERVISES</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
-		<div class="col-md-5" class="new" id="service-col0">
+		<div class="col-md-5" id="service-col0">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>2 PIECES CHICKEN - ORIGINAL</strong></h6>
+			<h6><strong>BUSH CANTEEN</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
 		</div>
 	</div><hr>
 
 	<!-- aboutUs-->
-	<h2 class="text-center"><strong>ABOUT US</strong></h2>
-	<div class="about" id="aboutus">
+	<div class="about" id="aboutus1">
+		<div class="content">
+		<div class="top">
+        <h2><strong>Experience Seamless Delivery Services Across Ghana.</strong></h2>
+		<h6><strong>Have your pascel delivered anywhere in Ghana.</strong></h6>
+	    </div>
 	<div class="text">
 		<p> 
-		NEXXIT is the ultimate KFC ordering platform in Winneba, 
-		offering quick and convenient delivery of the world-famous KFC menu to your doorstep within just 12 hours or fastter on request. 
-		With three easy ordering methods; <a href="value.php">Order Online</a> | <a href="tel:+233203786321">Order on Call</a> | <a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321" target="_blank">Order on WhatsApp </a>.
-		NEXXIT caters exclusively to Winneba residents' taste buds and provides exceptional customer service. 
-		With a focus on exclusivity and customer satisfaction, NEXXIT is the one-stop-site for all your KFC cravings, whether it's a family meal, 
-		personal indulgence, or a get-together with friends. Join NEXXIT and experience the KFC experience at your doorstep in Winneba.
+		From the north to the south, we've got Ghana covered. Wherever you are, we'll be there with your parcels.
 		</p>
+		<a href="tel:+233203786321" class="link"><strong>Make pascel delivery</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
+		</div>
 		</div>
 		<div class="back">
-			<img src="about.png">
+			<img src="pascel.jpg">
 		</div>
-	</div><hr>
+	</div>
+	
+	<div class="about" id="aboutus2">
+	<div class="back">
+			<img src="food.jpg">
+		</div>	
+		<div class="content">
+		<div class="top">
+        <h2><strong>Order From Your Favourite Restaurant In Town.</strong></h2>
+		<h6><strong>We will deliver it to you.</strong></h6>
+		</div>
+	<div class="text">
+		<p> 
+		We are working closely with your favourite food joints to get your favorite dishes delivered right to your doorstep.
+		</p>
+		<a href="tel:+233203786321" class="link"><strong>Order now</strong><i class="fa-solid fa-arrow-right"></i> </a>
+		</div>
+		</div>
+	</div>
+	
+	<div class="about" id="aboutus3">
+		<div class="content">
+		<div class="top">
+        <h2><strong>Grow Your Business With Us.</strong></h2>
+		</div>
+	<div class="text">
+		<p> 
+		Both big and small businesses partner with Delivered to expand their customer base, boost order numbers, and increase sales.
+		</p>
+		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="link"> <strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a>
+		</div>
+		</div>
+		<div class="back">
+			<img src="grow.jpg">
+		</div>
+	</div>
+
+	<div class="about" id="aboutus4">
+	<div class="back">
+			<img src="earn.jpg">
+		</div>	
+		<div class="content">
+		<div class="top">
+        <h2><strong>Earn Extra Cash On The Side.</strong></h2>
+		</div>
+	<div class="text">
+		<p> 
+		Join the Delivered delivery system, set your flexible schedule, and begin earning money wherever and whenever you choose.
+		</p>
+		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a>
+		</div>
+		</div>
+	</div>
+	<hr>
 
 	<!-- contactus-->
 	<div class="contact" id="contactus">
@@ -240,6 +280,7 @@
 
 	<!-- Option 1: Bootstrap Bundle with Popper -->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/c048758eef.js" crossorigin="anonymous"></script>
 	<script src="index.js"></script>
 </body>
 </html>
