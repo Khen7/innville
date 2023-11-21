@@ -48,7 +48,7 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link"
-				href="#hows">Be our Business Partner</a>
+				href="#hows">Be a Partner</a>
 			</li>	
 			<li class="nav-item">
 				<a class="nav-link"
@@ -90,7 +90,7 @@
 			<div class="text">
 			<h4 class="text-center"><strong>Be a Vendor</strong></h4>
 		<span> Reach more customers and grow your business with us.</span><br>
-		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
+		<a href="packages.php" class="how-link"><strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>
 		</div>
 		<div class="col-md-4" id="service-col3">
@@ -150,7 +150,7 @@
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
-			<h6><strong>HENRY</strong></h6>
+			<h6><strong>CAMPUS CHEF</strong></h6>
 			<a href="kfchome.php" class="btn">View Menu</a>
 		</div>
 		</div>
