@@ -17,7 +17,7 @@
 
 	<link rel="stylesheet" type="text/css" href="/poppins/poppins.css">
 
-	<title>Delivered</title>
+	<title>HorseHeels</title>
 </head>
 
 <body>
@@ -63,14 +63,16 @@
 	<!-- banner -->
 	<div class="banner" id="home">
 		<div class="text">
-		<h1><strong>WELCOME TO <span class="dd">DELIVERED</span></strong></h1>
-		<h5><strong>Make short and long distance deliveries with ease.</strong></h5><br>	
-		<h5><strong>We deliver: Speed. Reliability. Smiles. </strong></h5>
+		<h3><strong>The biggest delivery network out there.</strong></h3>
+		<h4><strong>Deliver Whatever | Wherever | Whenever. </strong></h4>
 		<div class="action">
 		<a href="tel:+233203786321" class="call-button">
 		<strong>Make a delivery</strong>	
         </a>
 		</div>
+	</div>
+	<div class="banner-image">
+		<img src="earn.jpg" alt="error">
 	</div>
 	</div>
 
@@ -96,7 +98,7 @@
 		<div class="col-md-4" id="service-col3">
 		<img src="ware.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<div class="text">
-			<h4 class="text-center"><strong>Be a Pickup Point</strong></h4>
+			<h4 class="text-center"><strong>Be a Distributor</strong></h4>
 		<span> register as a warehousse and get commissions per pickup</span><br>
 		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Register</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>

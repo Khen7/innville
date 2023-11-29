@@ -64,30 +64,36 @@
 <div class="pack-container">
     <div class="packs" id="pack1">
     <h2>VIP 1</h2>
-<h4 >GHC 217(3months)</h4>
+<h4 >GHC 250(4months)</h4>
 <ul>
-    <li>online store</li>
-    <li>Access to  our delivery network</li>
+    <li>online store.</li>
+    <li>Access to our delivery network.</li>
+	<li>Access to more customers.</li>
 </ul>
 <a href="kfchome.php" class="btn">View Menu</a>
     </div>
     <div class="packs" id="pack2">
     <h2>VIP 2</h2>
-<h4>GHC 400(6months)</h4>
+<h4>GHC 450(8months)</h4>
 <ul>
-    <li>Online store</li>
-    <li>Access to our delivery network</li>
-    <li>8% discount on total anual subcription</li>
+    <li>Online store.</li>
+    <li>Access to our delivery network.</li>
+	<li>Access to more customers.</li>
+	<li>Listed higher than VIP 1.</li>
+    <li>10% discount on total anual subcription fee.</li>
 </ul>
 <a href="kfchome.php" class="btn">View Menu</a>
     </div>
     <div class="packs" id="pack3">
     <h2>VIP 3</h2>
-<h4>GHC 550(Year)</h4>
+<h4>GHC 850(1Year)</h4>
 <ul>
-    <li>Online store</li>
-    <li>Access to our delivery network</li>
-    <li>16% discount on total anual subscription</li>
+    <li>Online store.</li>
+    <li>Access to our delivery network.</li>
+	<li>Access to more customers.</li>
+	<li>Listed higher than VIP 2.</li>
+	<li>15% discount on total anual subscription fee.</li>
+	<li>5% discount on orders commission.</li>
 </ul>
 <a href="kfchome.php" class="btn">View Menu</a>
     </div>
