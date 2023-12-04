@@ -68,7 +68,7 @@
 <ul>
     <li>online store.</li>
     <li>Access to our delivery network.</li>
-	<li>Access to more customers.</li>
+	<li>Access to our customer base.</li>
 </ul>
 <a href="kfchome.php" class="btn">View Menu</a>
     </div>
@@ -78,7 +78,7 @@
 <ul>
     <li>Online store.</li>
     <li>Access to our delivery network.</li>
-	<li>Access to more customers.</li>
+	<li>Access to our customer base.</li>
 	<li>Listed higher than VIP 1.</li>
     <li>10% discount on total anual subcription fee.</li>
 </ul>
@@ -90,10 +90,11 @@
 <ul>
     <li>Online store.</li>
     <li>Access to our delivery network.</li>
-	<li>Access to more customers.</li>
+	<li>Access to our customer base.</li>
 	<li>Listed higher than VIP 2.</li>
 	<li>15% discount on total anual subscription fee.</li>
 	<li>5% discount on orders commission.</li>
+	<li>A quarterly sales report and insights.</li>
 </ul>
 <a href="kfchome.php" class="btn">View Menu</a>
     </div>
