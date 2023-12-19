@@ -222,7 +222,6 @@ h1 {
 
 /* packages */
 .pack-container{
-	background-color: antiquewhite;
 	width: 90%;
 	height: 400px;
 	margin: auto;
@@ -467,7 +466,6 @@ background-color: #ee4035;
 
 .contact p{
 	width: 90%;
-	background-color: antiquewhite;
 }
 
 .contact form{
@@ -641,7 +639,7 @@ font-size: 15px;
 		.banner .banner-image{
 			margin: auto;
 			width: 100%;
-			height: 50vh;
+			height: 40vh;
 		}
 	
 		.call-button {
@@ -698,7 +696,7 @@ font-size: 15px;
 	}
 	
 	.how-link i{
-		color: #25D366;
+		color: #ee4035;
 		font-size: 13px;
 	}
 
@@ -725,7 +723,6 @@ font-size: 15px;
 
 .pack-container{
 	width: 100%;
-	height: 1000px;
 	margin-top: 150px;
 	flex-direction: column;
 }
@@ -869,7 +866,7 @@ width: 90%;
 	}
 	
 	.content i{
-		color: #25D366;
+		color: #ee4035;
 		font-size: 15px;
 	}
 

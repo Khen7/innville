@@ -25,7 +25,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
 		<a class="navbar-brand" href="#">
-			<img src="delivered.jpg" alt="error">
+			<img src="heel1.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
@@ -84,7 +84,7 @@
 			<div class="text">
 			<h4 class="text-center"><strong>Be a Rider</strong></h4>
 		<span> Work at your own convenience and make extra money as a delivery rider.</span><br>
-		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a> 	
+		<a href="https://forms.gle/3XyU8ax8prJRNwPw9" target="_blank" class="how-link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a> 	
 		</div>
 		</div>
 		<div class="col-md-4" id="service-col3">
@@ -99,7 +99,7 @@
 		<img src="ware.png" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<div class="text">
 			<h4 class="text-center"><strong>Be a Distributor</strong></h4>
-		<span> register as a warehousse and get commissions per pickup</span><br>
+		<span> register as a warehousse and get commissions per pickup.</span><br>
 		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="how-link"><strong>Register</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>
 		</div>
@@ -143,39 +143,39 @@
 		<div class="col-md-5" id="service-col0">
 			<img src="s2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>KINGS AND QUEENS</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="m1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BIGGIE'S</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="b3.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>CAMPUS CHEF</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		</div>
 		<div class="cards">
 		<div class="col-md-5" id="service-col0">
 			<img src="bg2.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>TEMPEST LOUNGE</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="o1.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>ORBIT FOOD</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="o6.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>PRAISE SERVISES</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		<div class="col-md-5" id="service-col0">
 			<img src="o26.jpeg" class="img-fluid rounded mx-auto d-block" alt="..."/>
 			<h6><strong>BUSH CANTEEN</strong></h6>
-			<a href="kfchome.php" class="btn">View Menu</a>
+			<a href="kfchome.php" style="pointer-events: none" class="btn">View Menu</a>
 		</div>
 		</div>
 	</div><hr>
@@ -185,13 +185,13 @@
 		<div class="content">
 		<div class="top">
         <h2><strong>Experience Seamless Delivery Services Across Ghana.</strong></h2>
-		<h6><strong>Have your pascel delivered anywhere in Ghana.</strong></h6>
+		<h6><strong>Have your parcel delivered anywhere in Ghana.</strong></h6>
 	    </div>
 	<div class="text">
 		<p> 
 		From the north to the south, we've got Ghana covered. Wherever you are, we'll be there with your parcels.
 		</p>
-		<a href="tel:+233203786321" class="link"><strong>Make pascel delivery</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
+		<a href="tel:+233203786321" class="link"><strong>Make parcel delivery</strong> <i class="fa-solid fa-arrow-right"></i> </a> 
 		</div>
 		</div>
 		<div class="back">
@@ -224,9 +224,9 @@
 		</div>
 	<div class="text">
 		<p> 
-		Both big and small businesses partner with Delivered to expand their customer base, boost order numbers, and increase sales.
+		Both big and small businesses partner with HorseHeel to expand their customer base, boost order numbers, and increase sales.
 		</p>
-		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="link"> <strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a>
+		<a href="packages.php" target="_blank" class="link"> <strong>Sign up your store</strong> <i class="fa-solid fa-arrow-right"></i> </a>
 		</div>
 		</div>
 		<div class="back">
@@ -244,9 +244,9 @@
 		</div>
 	<div class="text">
 		<p> 
-		Join the Delivered delivery system, set your flexible schedule, and begin earning money wherever and whenever you choose.
+		Join our delivery network, set your flexible schedule, and begin earning money wherever and whenever you choose.
 		</p>
-		<a href="https://forms.gle/ir83m7vdXVsK5DGx7" target="_blank" class="link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a>
+		<a href="https://forms.gle/3XyU8ax8prJRNwPw9" target="_blank" class="link"><strong>Start earning</strong> <i class="fa-solid fa-arrow-right"></i> </a>
 		</div>
 		</div>
 	</div>
@@ -275,7 +275,7 @@
 
 	 <!-- Footer -->
 	 <footer>
-    <p>&copy; 2023 manycompanies.com | <a href="#">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321" target="_blank">Contact Us </a>
+    <p>&copy; 2023 HorseHeel | <a href="innville.com">Oval Project</a> | <a href="terms.php">Terms of Use</a> | <a aria-label="Chat on WhatsApp" href="https://wa.me/233203786321" target="_blank">Contact Us </a>
   </footer>
 
 	<!-- Optional JavaScript; choose one of the two! -->

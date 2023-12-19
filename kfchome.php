@@ -24,8 +24,8 @@
 	<section id="navbar">
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
-		<a class="navbar-brand" href="#">
-			<img src="delivered.jpg" alt="error">
+		<a class="navbar-brand" href="index.php">
+			<img src="heel1.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"

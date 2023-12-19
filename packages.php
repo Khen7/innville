@@ -24,8 +24,8 @@
 <section id="navbar">
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container-fluid">
-		<a class="navbar-brand" href="#">
-			<img src="delivered.jpg" alt="error">
+		<a class="navbar-brand" href="index.php">
+			<img src="heel1.png" alt="error">
 			</a>
 		<button
 			class="navbar-toggler"
@@ -70,7 +70,7 @@
     <li>Access to our delivery network.</li>
 	<li>Access to our customer base.</li>
 </ul>
-<a href="kfchome.php" class="btn">View Menu</a>
+<a href="https://forms.gle/xxBcr12kPJnP38Q46" target="_blank" class="btn">Sign Up</a>
     </div>
     <div class="packs" id="pack2">
     <h2>VIP 2</h2>
@@ -82,7 +82,7 @@
 	<li>Listed higher than VIP 1.</li>
     <li>10% discount on total anual subcription fee.</li>
 </ul>
-<a href="kfchome.php" class="btn">View Menu</a>
+<a href="https://forms.gle/xxBcr12kPJnP38Q46" target="_blank" class="btn">Sign Up</a>
     </div>
     <div class="packs" id="pack3">
     <h2>VIP 3</h2>
@@ -96,8 +96,14 @@
 	<li>5% discount on orders commission.</li>
 	<li>A quarterly sales report and insights.</li>
 </ul>
-<a href="kfchome.php" class="btn">View Menu</a>
+<a href="https://forms.gle/xxBcr12kPJnP38Q46" target="_blank" class="btn">Sign Up</a>
     </div>
 </div>
 
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/c048758eef.js" crossorigin="anonymous"></script>
+	<script src="index.js"></script>
+
     </body>
+</html>
